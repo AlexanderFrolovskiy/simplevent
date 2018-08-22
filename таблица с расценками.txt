@@ -1,0 +1,92 @@
+<!--- <br>
+            <table style="width: 1118px; padding: 10px; border-collapse: collapse">
+                <tr style="background: darkblue; color: whitesmoke;"> 
+                    <th style="text-align: left; padding-left: 5px; border-top: 4px solid purple; border-left: 4px solid purple">
+                        Опции</th>
+                    <th style="border-top: 4px solid purple">
+                        Стоимость, руб.</th>
+                 </tr>
+                <tr style=" border-bottom: 1px solid lightgray;">
+                    <td style="border-left: 4px solid purple; padding-left: 5px">
+                        Создание сайта</td>
+                    <td style="text-align: center;">4 000,00</td>
+                </tr>
+                <tr style=" border-bottom: 1px solid lightgray;">
+                    <td style="border-left: 4px solid purple; padding-left: 5px">
+                        Подключение CRM-системы к сайту</td>
+                    <td style="text-align: center;">-</td>
+                </tr>
+                <tr>
+                    <td style="padding-left:30px; border-left: 4px solid purple;"> 
+                        - Онлайн запись клиентов в базу данных </td>
+                    <td style="text-align: center;"> 2 000,00</td>
+                </tr>
+                <tr>
+                    <td style="padding-left:30px; border-left: 4px solid purple;"> 
+                        - Онлайн запись клиентов в группы со свободными местами </td>
+                    <td style="text-align: center;"> 5 000,00</td>
+                </tr>
+                <tr>
+                    <td style="padding-left:30px; border-left: 4px solid purple;"> 
+                        - Оповещение клиентов  о записи (отправка писем клиенту и тренеру)</td>
+                    <td style="text-align: center;"> 1 000,00</td>
+                </tr>
+                <tr>
+                    <td style="padding-left:30px; border-left: 4px solid purple;"> 
+                        - Создание расписания занятий</td>
+                    <td style="text-align: center;"> 2 500,00</td>
+                </tr>
+                <tr>
+                    <td style="padding-left:30px; border-left: 4px solid purple;"> 
+                        - Многоуровневый вход в систему (директор, администратор, тренер и тд.)</td>
+                    <td style="text-align: center;"> 4 000,00</td>
+                </tr>
+                <tr>
+                    <td style="padding-left:30px; border-left: 4px solid purple;"> 
+                        - Печать ведомостей </td>
+                    <td style="text-align: center;">  500,00</td>
+                </tr>
+                <tr>
+                    <td style="padding-left:30px; border-left: 4px solid purple;"> 
+                        - Выведение и печать отчетов (по доходам, зарплате, аренде и тд.) </td>
+                    <td style="text-align: center;">  1 000,00</td>
+                </tr>
+                <tr>
+                    <td style="padding-left:30px; border-left: 4px solid purple;">
+                        - Онлайн посещаемость занятий </td>
+                    <td style="text-align: center;">  4 000,00</td>
+                </tr>
+                <tr>
+                    <td style="padding-left:30px; border-left: 4px solid purple;">
+                         - Карточка клиента (просмотр дополнительной  информации о клиенте) </td>
+                    <td style="text-align: center;">  2 500,00</td>
+                </tr>
+                <tr>
+                    <td style="padding-left:30px; border-left: 4px solid purple;">
+                         - Личный кабинет клиента </td>
+                    <td style="text-align: center;">  6 000,00</td>
+                </tr>
+                <tr>
+                    <td style="padding-left:30px; border-left: 4px solid purple;">
+                         - Подключение системы оплаты через сайт </td>
+                    <td style="text-align: center;">  2 000,00</td>
+                </tr>
+                <tr>
+                    <td style="padding-left:30px; border-left: 4px solid purple;">
+                         - Автоматическое внесение оплаты через сайт в базу данных </td>
+                    <td style="text-align: center;">  4 000,00</td>
+                </tr>
+                <tr style=" border-bottom: 1px solid lightgray;">
+                    <td style="padding-left:30px; border-left: 4px solid purple;"> 
+                        - План мероприятий компании </td>
+                    <td style="text-align: center;">  1 500,00</td>
+                </tr>
+                <tr style=" border-bottom: 1px solid lightgray;">
+                    <td style="border-left: 4px solid purple; padding-left: 5px">
+                        Создание дизайнов</td>
+                    <td style="text-align: center;"> от 500,00</td>
+                </tr>
+            </table>
+            <p style="background: darkblue; color:whitesmoke; height: 30px; width: 1100px"><strong>
+                Максимально низкие цены - максимально индивидуальный подход!</strong></p> 
+             -->
